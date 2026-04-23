@@ -147,8 +147,12 @@
       {% if author.telegram %}
         <li><a href="{{ author.telegram }}"><i class="fab fa-fw fa-telegram icon-pad-right" aria-hidden="true"></i>Telegram</a></li>
       {% if author.discord %}
-        <li><a href="{{ author.discord }}"><i class="fab fa-fw fa-discord icon-pad-right" aria-hidden="true"></i>Discord</a></li>
-      {% endif %}      
+       <li>
+          <a href="{{ author.discord }}">
+            <i class="fab fa-fw fa-discord icon-pad-right" aria-hidden="true"></i>Discord
+          </a>
+       </li>
+      {% endif %}
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr icon-pad-right" aria-hidden="true"></i>Tumblr</a></li>
       {% endif %}      
