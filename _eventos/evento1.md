@@ -1,4 +1,4 @@
 ---
-title: "Seminario de Física Cuántica"
-excerpt: "Introducción a sistemas abiertos"
+title: "Conversatorio"
+excerpt: "Oportunidades academicas en Estados Unidos"
 ---
