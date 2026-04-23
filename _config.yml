@@ -203,6 +203,10 @@ collections:
   egresados:
     output: true
     permalink: /:collection/:path/
+  eventos:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # These settings control how pages and collections are included in the site
