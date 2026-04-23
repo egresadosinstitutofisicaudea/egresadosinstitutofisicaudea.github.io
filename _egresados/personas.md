@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Banco de información egresados"
-permalink: /personas/
+title: "Banco de egresados"
+permalink: /egresados/
 ---
 
 <div class="grid-personas">
