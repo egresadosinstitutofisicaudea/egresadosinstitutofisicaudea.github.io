@@ -4,9 +4,6 @@ title: "Eventos"
 permalink: /eventos/
 ---
 
-<!-- BANNER (sin recorte, solo escala) -->
-<img src="/images/conversatorioEuropa.png"
-     style="width:40%; height:auto; border-radius:12px; margin:20px 0;">
 
 ---
 
@@ -21,8 +18,7 @@ permalink: /eventos/
   <h3>{{ e.title }}</h3>
 
   {% if e.image %}
-    <img src="{{ e.image }}"
-         style="width:100%; height:auto; border-radius:10px; margin-bottom:10px;">
+    <img src="{{ e.image }}" style="width:40%; height:auto; border-radius:10px;">
   {% endif %}
 
   {% if e.excerpt %}
