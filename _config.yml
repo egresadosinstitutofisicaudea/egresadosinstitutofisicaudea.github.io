@@ -23,7 +23,7 @@ repository               : "egresadosinstitutofisicaudea/egresadosinstitutofisic
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo.png"
+  avatar           : "escudo-udea-small.png"
   name             : "Egresado/as del Instituto de Física UdeA"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
