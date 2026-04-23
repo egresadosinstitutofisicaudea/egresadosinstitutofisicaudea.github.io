@@ -1,0 +1,429 @@
+- nombre: "Valentina Bedoya Aristizabal"
+  email: "valentina.vba@gmail.com"
+  formacion: "Pregrado en Física"
+  areas: "Termodinámica estocástica, física estadística fuera del equilibrio, procesos estocásticos, biofísica"
+  disponibilidad: "Sí"
+  numero_programas: 2
+  programas:
+    - tipo: "Diploma"
+      nombre: "ICTP Postgraduate Diploma Programme in Quantitative Life Sciences"
+      duracion: "1 año"
+      lugar: "Trieste, Italia"
+      beca: "Sí"
+      links:
+        - "https://www.ictp.it/opportunity/ictp-postgraduate-diploma-programme"
+    - tipo: "Doctorado"
+      nombre: "Molecular and Statistical Biophysics"
+      duracion: "4 años"
+      lugar: "Trieste, Italia"
+      beca: "Sí"
+      links:
+        - "https://msb.sissa.it/phd-program/"
+
+- nombre: "Miguel Vásquez Vega"
+  email: "miguel.vasquez_vega@tufts.edu"
+  formacion: "Pregrado en Astronomía"
+  areas: "Physics Education Research"
+  disponibilidad: "Miércoles después de 10am o cualquier día después de 6pm (hora Colombia)"
+  numero_programas: 2
+  programas:
+    - tipo: "Maestría"
+      nombre: "MS in Physics Education"
+      duracion: "2 años"
+      lugar: "Boston, Estados Unidos"
+      beca: "Sí"
+      links:
+        - "https://as.tufts.edu/physics/academics/graduate-programs/phd-physics-physics-education"
+    - tipo: "Doctorado"
+      nombre: "PhD in Physics Education"
+      duracion: "5 años"
+      lugar: "Boston, Estados Unidos"
+      beca: "Sí"
+      links:
+        - "https://as.tufts.edu/physics/academics/graduate-programs/phd-physics-physics-education"
+
+- nombre: "Juan Diego Mazo Vásquez"
+  email: "juan.dm.vasquez@gmail.com"
+  formacion: "Pregrado en Física"
+  areas: "Fotónica, óptica no lineal, topología de sistemas no hermíticos"
+  disponibilidad: "8:00–14:00 (hora Colombia)"
+  numero_programas: 2
+  programas:
+    - tipo: "Maestría"
+      nombre: "Master in Optics and Photonics"
+      duracion: "2 años"
+      lugar: "Alemania"
+      beca: "Sí"
+      links:
+        - "https://photonics.maxplanckschools.org/en/home"
+    - tipo: "Doctorado"
+      nombre: "PhD in Physics"
+      duracion: "4 años"
+      lugar: "Alemania"
+      beca: "Sí"
+      links:
+        - "https://photonics.maxplanckschools.org/en/home"
+
+- nombre: "Natalia Osorio Clavijo"
+  email: "natalia.osorioclavijo@gmail.com"
+  formacion: "Pregrado en Astronomía"
+  areas: ""
+  disponibilidad: "Después de las 6 pm (hora Colombia)"
+  numero_programas: 2
+  programas:
+    - tipo: "Maestría + Doctorado"
+      nombre: "Ciencias (Astrofísica)"
+      duracion: "6 años"
+      lugar: "Morelia, México"
+      beca: "Sí"
+      links:
+        - "https://astrofisica.posgrado.unam.mx/"
+
+- nombre: "Juan Pablo Marulanda Serna"
+  email: "juan.marulandas@udea.edu.co"
+  formacion: "Pregrado en Física"
+  areas: "Gases cuánticos ultrafríos"
+  disponibilidad: "8:00–12:00 (hora Colombia)"
+  numero_programas: 2
+  programas:
+    - tipo: "Maestría"
+      nombre: "Quantum Technologies and Engineering (Erasmus Mundus)"
+      duracion: "2 años"
+      lugar: "Aarhus, Dinamarca"
+      beca: "Sí"
+      links:
+        - "https://www.quanteem.eu/"
+    - tipo: "Doctorado"
+      nombre: "PhD in Physics"
+      duracion: "3+ años"
+      lugar: "Berlín, Alemania"
+      beca: "Sí"
+      links:
+        - "https://www.fhi.mpg.de/787215/Giacomo"
+
+- nombre: "Kimy Johanna Agudelo Jaramillo"
+  email: "kimy.agudelo@udea.edu.co"
+  formacion: "Pregrado y Maestría en Física"
+  areas: "Altas energías, física de neutrinos"
+  disponibilidad: "Flexible (excepto miércoles 11:00)"
+  numero_programas: 1
+  programas:
+    - tipo: "Doctorado"
+      nombre: "Doctorado en Ciencias con Mención en Física"
+      duracion: "4.5 años"
+      lugar: "Chile"
+      beca: "Sí"
+      links:
+        - "https://postgrado.ucn.cl/doctorado/doctorado-en-ciencias-con-mencion-en-fisica/"
+
+- nombre: "Tomas Atehortua Garces"
+  email: "toatga93@gmail.com"
+  formacion: "Pregrado y Maestría en Física"
+  areas: "Física de partículas"
+  disponibilidad: "Mañanas (hora Colombia)"
+  numero_programas: 1
+  programas:
+    - tipo: "Doctorado"
+      nombre: "PhD in Physics"
+      duracion: "5 años"
+      lugar: "Estados Unidos"
+      beca: "Sí"
+      links:
+        - "https://as.vanderbilt.edu/physics-astronomy/phd-physics-admissions/"
+
+- nombre: "Jeronimo Calderon Gomez"
+  email: "jeronimo.calderong@udea.edu.co"
+  formacion: "Pregrado en Astronomía"
+  areas: "Instrumentación astronómica"
+  disponibilidad: "Por definir"
+  numero_programas: 2
+  programas:
+    - tipo: "Maestría"
+      nombre: "Erasmus Mundus MASS"
+      duracion: "2 años"
+      lugar: "Italia / Francia"
+      beca: "Sí"
+      links:
+        - "https://www.master-mass.eu/"
+    - tipo: "Doctorado"
+      nombre: "PhD en Astrofísica"
+      duracion: "3 años"
+      lugar: "Niza, Francia"
+      beca: "Sí"
+      links:
+        - "https://www.master-mass.eu/"
+
+- nombre: "Samuel Hoyos Aristizábal"
+  email: "samuel.hoyos@udea.edu.co"
+  formacion: "Pregrado en Física"
+  areas: "Física de plasma, QED en campos fuertes"
+  disponibilidad: "Martes o jueves 13–17 (hora Colombia)"
+  numero_programas: 3
+  programas:
+    - tipo: "Maestría"
+      nombre: "M1 + M2 Physics (Paris-Saclay)"
+      duracion: "2 años"
+      lugar: "París, Francia"
+      beca: "Sí"
+      links:
+        - "https://www.universite-paris-saclay.fr/"
+    - tipo: "Pasantías"
+      nombre: "ONERA / LPP / LULI"
+      duracion: "4–5 meses"
+      lugar: "Francia"
+      beca: "Sí"
+      links:
+        - "https://luli.ip-paris.fr"
+
+- nombre: "Daniel Sucerquia"
+  email: "dsucerg@gmail.com"
+  formacion: "Pregrado y Maestría en Física"
+  areas: "Machine Learning, estructura electrónica, molecular dynamics"
+  disponibilidad: "9–18 (hora Europa)"
+  numero_programas: 1
+  programas:
+    - tipo: "Doctorado"
+      nombre: "PhD in Physics"
+      duracion: "3–4 años"
+      lugar: "Heidelberg/Mainz, Alemania"
+      beca: "Sí"
+      links:
+        - "https://www.h-its.org/"
+
+- nombre: "John Alexis Jaramillo Osorio"
+  email: "alexisj0509@gmail.com"
+  formacion: "Pregrado, Maestría y Doctorado en Física"
+  areas: ""
+  disponibilidad: "Lunes a viernes 8–11"
+  numero_programas: 1
+  programas:
+    - tipo: "Pasantía"
+      nombre: "ICTP Training"
+      duracion: "3 meses"
+      lugar: "Italia"
+      beca: "Sí"
+      links:
+        - "https://scienti.minciencias.gov.co/"
+
+- nombre: "Daniel Esteban Montenegro Taborda"
+  email: "dmontenegrotaborda@gmail.com"
+  formacion: "Pregrado en Astronomía"
+  areas: "Astronomía extragaláctica"
+  disponibilidad: "Mañana"
+  numero_programas: 2
+  programas:
+    - tipo: "Maestría + Doctorado"
+      nombre: "Astrofísica"
+      duracion: "6 años"
+      lugar: "Morelia, México"
+      beca: "Sí"
+      links:
+        - "https://secihti.mx/"
+
+- nombre: "Carlos Andrés Granada Palacio"
+  email: "carlosagpalacio21@gmail.com"
+  formacion: "Pregrado en Física"
+  areas: "Análisis geométrico, superficies mínimas"
+  disponibilidad: "7–10 y 12–18"
+  numero_programas: 2
+  programas:
+    - tipo: "Maestría + Doctorado"
+      nombre: "Matemáticas (IMPA)"
+      duracion: "6 años"
+      lugar: "Rio de Janeiro, Brasil"
+      beca: "Sí"
+      links:
+        - "https://impa.br/"
+
+- nombre: "Julian Sierra Velez"
+  email: "juliansierrav@gmail.com"
+  formacion: "Pregrado en Física"
+  areas: "Biofísica"
+  disponibilidad: "13–16"
+  numero_programas: 4
+  programas:
+    - tipo: "Trayectoria completa"
+      nombre: "Pasantías + Maestría + Doctorado + Postdoc"
+      duracion: "Variable"
+      lugar: "Alemania / Francia"
+      beca: "Sí"
+      links:
+        - "https://nano-phot.utt.fr/"
+
+- nombre: "Valentina Roquemen Echeverri"
+  email: "vlt.roq@gmail.com"
+  formacion: "Pregrado en Física"
+  areas: "AI/ML Healthcare, biomedical signal processing"
+  disponibilidad: "11–19 (Colombia)"
+  numero_programas: 1
+  programas:
+    - tipo: "Doctorado"
+      nombre: "Biomedical Engineering"
+      duracion: "4 años"
+      lugar: "Portland, USA"
+      beca: "Sí"
+      links:
+        - "https://www.ohsu.edu/"
+
+- nombre: "Daniel Niño Villegas"
+  email: "danielnivi52@gmail.com"
+  formacion: "Pregrado en Astronomía"
+  areas: "Relatividad general"
+  disponibilidad: "Tarde"
+  numero_programas: 1
+  programas:
+    - tipo: "Maestría"
+      nombre: "Astrophysics and Space Science (MASS)"
+      duracion: "2 años"
+      lugar: "Italia / Alemania"
+      beca: "Sí"
+      links:
+        - "https://www.master-mass.eu/"
+
+- nombre: "Laura Ramírez Galeano"
+  email: "Lauramirezg26@gmail.com"
+  formacion: "Pregrado en Astronomía"
+  areas: "Astrofísica estelar"
+  disponibilidad: "Hasta 15:00"
+  numero_programas: 3
+  programas:
+    - tipo: "Trayectoria"
+      nombre: "Pasantía + Maestría + Doctorado"
+      duracion: "Variable"
+      lugar: "México / Suiza"
+      beca: "Sí"
+      links:
+        - "https://www.unige.ch/"
+
+- nombre: "Esteban Marulanda Ardila"
+  email: "esteban.marulandaa@udea.edu.co"
+  formacion: "Pregrado en Física"
+  areas: "Materiales cuánticos"
+  disponibilidad: "Flexible"
+  numero_programas: 1
+  programas:
+    - tipo: "Maestría"
+      nombre: "Maestría en Física"
+      duracion: "2 años"
+      lugar: "São Paulo, Brasil"
+      beca: "Sí"
+      links:
+        - "https://portal.if.usp.br/"
+
+- nombre: "Carolina Herrera Segura"
+  email: "carolinaherrerasegura@gmail.com"
+  formacion: "Pregrado en Física"
+  areas: "Computer vision, software"
+  disponibilidad: "12–16"
+  numero_programas: 1
+  programas:
+    - tipo: "Maestría"
+      nombre: "Computer Science and Engineering"
+      duracion: "2 años"
+      lugar: "Oulu, Finlandia"
+      beca: "Sí"
+      links:
+        - "https://www.oulu.fi/"
+
+- nombre: "David Silva Sanchez"
+  email: "davidsilvasanchez314@gmail.com"
+  formacion: "Pregrado en Física"
+  areas: "Biofísica, cryo-EM, matemática aplicada"
+  disponibilidad: "Limitado por zona horaria (Helsinki)"
+  numero_programas: 2
+  programas:
+    - tipo: "Doctorado"
+      nombre: "Applied Mathematics (Yale)"
+      duracion: "5 años"
+      lugar: "USA"
+      beca: "Sí"
+      links:
+        - "https://engineering.yale.edu/"
+
+- nombre: "Diego Alberto Baron Moreno"
+  email: "diegobaroncharm@gmail.com"
+  formacion: "Pregrado y Maestría en Física"
+  areas: "Física de partículas experimental"
+  disponibilidad: "Después de 13:00"
+  numero_programas: 2
+  programas:
+    - tipo: "Doctorado + Postdoc"
+      nombre: "Particle Physics"
+      duracion: "7 años"
+      lugar: "Manchester, Reino Unido"
+      beca: "Sí"
+      links:
+        - "https://www.manchester.ac.uk/"
+
+- nombre: "José David Ruiz Álvarez"
+  email: "josed.ruiz@udea.edu.co"
+  formacion: "Pregrado en Física"
+  areas: "Física de partículas"
+  disponibilidad: "Sí"
+  numero_programas: 1
+  programas:
+    - tipo: "Doctorado"
+      nombre: "Física de partículas"
+      duracion: "3 años"
+      lugar: "Lyon, Francia"
+      beca: "Sí"
+      links: []
+
+- nombre: "Paola Restrepo Salazar"
+  email: "paolarpos@gmail.com"
+  formacion: "Pregrado en Astronomía"
+  areas: "Geofísica"
+  disponibilidad: ""
+  numero_programas: 1
+  programas:
+    - tipo: "Maestría"
+      nombre: "Ciencias de la Tierra"
+      duracion: "2 años"
+      lugar: "México"
+      beca: "Sí"
+      links:
+        - "https://secihti.mx/"
+
+- nombre: "Luis Miguel Galvis Elizalde"
+  email: "miguel.galvis@udea.edu.co"
+  formacion: "Pregrado en Física"
+  areas: "Light-matter interaction, SU(3)"
+  disponibilidad: ""
+  numero_programas: 2
+  programas:
+    - tipo: "Maestría"
+      nombre: "Magíster en Física"
+      duracion: "2 años"
+      lugar: "Chile"
+      beca: "Sí"
+      links:
+        - "https://postgrado.ucn.cl/"
+    - tipo: "Pasantía"
+      nombre: "Lakehead University"
+      duracion: "4 meses"
+      lugar: "Canadá"
+      beca: "Sí"
+      links:
+        - "https://www.educanada.ca/"
+
+- nombre: "Daniela Montes Doria"
+  email: "daniela.montesdoria@anu.edu.au"
+  formacion: "Pregrado en Astronomía"
+  areas: "21-cm Cosmology"
+  disponibilidad: ""
+  numero_programas: 2
+  programas:
+    - tipo: "Maestría"
+      nombre: "Astrofísica y Cosmología"
+      duracion: "2 años"
+      lugar: "Padua, Italia"
+      beca: "Sí"
+      links:
+        - "https://www.unipd.it/"
+    - tipo: "Doctorado"
+      nombre: "PhD Astrofísica"
+      duracion: "3.5 años"
+      lugar: "Canberra, Australia"
+      beca: "Sí"
+      links:
+        - "https://rsaa.anu.edu.au/"
