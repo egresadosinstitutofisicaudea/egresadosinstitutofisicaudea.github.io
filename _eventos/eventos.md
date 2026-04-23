@@ -6,5 +6,5 @@ collection: eventos
 ---
 
 This is an item in your events collection. It can have images or nice text.
----
+
 
