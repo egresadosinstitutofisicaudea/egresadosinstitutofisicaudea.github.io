@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Página Web"
 title_separator          : "-"
 name                     : &name "Egresados Fisica/Astronomia UdeA"
@@ -23,7 +23,7 @@ repository               : "egresadosinstitutofisicaudea/egresadosinstitutofisic
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo.png"
+  avatar           : "logoudea.jpg"
   name             : "Egresado/as del Instituto de Física UdeA"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
