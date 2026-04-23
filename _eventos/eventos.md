@@ -4,12 +4,9 @@ title: "Eventos"
 permalink: /eventos/
 ---
 
-Bienvenidos a la sección de eventos.  
-Aquí encontrarás seminarios, charlas y actividades académicas del instituto.
-
 <!-- BANNER (sin recorte, solo escala) -->
 <img src="/images/conversatorioEuropa.png"
-     style="width:50%; height:auto; border-radius:12px; margin:20px 0;">
+     style="width:40%; height:auto; border-radius:12px; margin:20px 0;">
 
 ---
 
