@@ -1,7 +1,33 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-permalink: eventos
+layout: archive
+title: "Eventos"
+permalink: /eventos/
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# Bienvenidos a la sección de eventos
+
+Aquí encontrarás seminarios, charlas y actividades académicas del instituto.
+
+![Imagen de eventos](/images/conversatorioEuropa.png)
+
+---
+
+<div class="grid-eventos">
+
+{% for e in site.eventos %}
+
+<div class="card-evento">
+
+  <h3>{{ e.title }}</h3>
+
+  {% if e.image %}
+    <img src="{{ e.image }}" style="width:100%; border-radius:10px;">
+  {% endif %}
+
+  <p>{{ e.excerpt }}</p>
+
+</div>
+
+{% endfor %}
+
+</div>
