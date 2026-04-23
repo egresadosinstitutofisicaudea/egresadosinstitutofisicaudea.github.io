@@ -16,9 +16,12 @@ main:
 
   #- title: "Teaching"
   #  url: /teaching/ 
-  - title: "Egresados"
+  - title: "Egresad@s"
     url: /egresados/
-    
+
+  - title: "Eventos"
+    url: /eventos/
+        
   - title: "Portfolio"
     url: /portfolio/
         
