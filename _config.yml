@@ -200,6 +200,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  egresados:
+    output: true
+    permalink: /egresados/:path/
 
 
 # These settings control how pages and collections are included in the site
