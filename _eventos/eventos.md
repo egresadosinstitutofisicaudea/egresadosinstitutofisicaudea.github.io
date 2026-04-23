@@ -9,7 +9,7 @@ Aquí encontrarás seminarios, charlas y actividades académicas del instituto.
 
 <!-- BANNER (sin recorte, solo escala) -->
 <img src="/images/conversatorioEuropa.png"
-     style="width:100%; height:auto; border-radius:12px; margin:20px 0;">
+     style="width:50%; height:auto; border-radius:12px; margin:20px 0;">
 
 ---
 
