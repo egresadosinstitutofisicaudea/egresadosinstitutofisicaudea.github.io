@@ -21,7 +21,7 @@ Aquí encontrarás seminarios, charlas y actividades académicas del instituto.
   <h3>{{ e.title }}</h3>
 
   {% if e.image %}
-    <img src="{{ e.image }}" style="width:100%; border-radius:10px;">
+   <img src="{{ e.image }}" style="width:100%; height:200px; object-fit:cover; border-radius:10px;">
   {% endif %}
 
   <p>{{ e.excerpt }}</p>
