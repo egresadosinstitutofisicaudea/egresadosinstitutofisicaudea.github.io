@@ -1,5 +1,7 @@
 ---
 title: "Conversatorio"
 excerpt: "Oportunidades academicas en Latinoamerica"
+layout: single
 ---
-por definir fecha 
+fecha por definir
+---
