@@ -1,0 +1,83 @@
+{% include base_path %}
+
+<!-- start custom head snippets -->
+
+<!-- Support for Academicons -->
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+
+<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
+<link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
+<link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
+<link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
+<link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
+<link rel="icon" href="/images/favicon.ico"/>
+<meta name="theme-color" content="#ffffff"/>
+<style>
+.grid-eventos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.card-evento {
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 1.2rem;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.card-evento:hover {
+  transform: translateY(-5px);
+}
+</style>
+<style>
+.grid-personas {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.card-persona {
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 1.2rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: 0.2s;
+  background: white;
+}
+
+.card-persona:hover {
+  transform: translateY(-4px);
+}
+
+.nombre {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.area {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.programa {
+  font-size: 0.85rem;
+  margin-bottom: 0.3rem;
+}
+
+.tag {
+  display: inline-block;
+  background: #f3f3f3;
+  border-radius: 8px;
+  padding: 2px 8px;
+  margin: 2px;
+  font-size: 0.75rem;
+}
+</style>
+
+<!-- end custom head snippets -->
