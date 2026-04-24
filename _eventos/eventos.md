@@ -4,30 +4,30 @@ title: "Eventos"
 permalink: /eventos/
 ---
 
-
----
-
 ## Próximos eventos
 
 <div class="grid-eventos">
 
 {% for e in site.eventos %}
 
+<a href="{{ e.url }}" style="text-decoration:none; color:inherit;">
+
 <div class="card-evento">
 
   <h3>{{ e.title }}</h3>
-  
+
   {% if e.excerpt %}
-    <p>{{ e.excerpt }}</p>
+    <p><strong>{{ e.excerpt }}</strong></p>
   {% endif %}
 
   {% if e.image %}
-    <img src="{{ e.image }}" style="width:40%; height:auto; border-radius:10px;">
+    <img src="{{ e.image }}"
+         style="width:100%; height:auto; border-radius:10px; margin-top:10px;">
   {% endif %}
 
-  
-
 </div>
+
+</a>
 
 {% endfor %}
 
