@@ -1,35 +1,35 @@
 ---
 permalink: /
-title: "Red de esgresados del instituto de fisica de la Universidad de Antioquia"
+title: "Red de egresados y egresadas del Instituto de Física de la Universidad de Antioquia"
 author_profile: true
 redirect_from: 
   - /about/
-  #- /about.html
 ---
-# 🌌 Bienvenida a la Red de Egresados de Física
 
-¡Bienvenidas y bienvenidos!
+¡Hola!
 
-Es un placer darte la bienvenida a la **Red de Egresados de Física**, un espacio creado para mantenernos conectadas y conectados más allá de las aulas, laboratorios y seminarios que marcaron nuestra formación.
+Te damos la bienvenida a la **Red de Egresados y Egresadas del Instituto de Física**, un espacio pensado para mantenernos conectados, compartir experiencias y construir comunidad.
 
 Esta red nace con el propósito de:
 
-- 🤝 **Fortalecer vínculos** entre egresados y egresadas
-- 📚 **Compartir oportunidades** académicas, laborales y de investigación
-- 🌍 **Construir comunidad** en torno a la física y sus múltiples caminos
-- 💡 **Intercambiar experiencias** desde la academia, la industria, la educación y otros campos
+- Apoyar a estudiantes y recién egresados en la búsqueda de oportunidades académicas  
+- **Fortalecer los vínculos** entre egresados y egresadas, cerrando brechas entre generaciones  
+- **Compartir oportunidades** académicas, laborales y de investigación  
+- **Fomentar el intercambio de experiencias** en torno a la Física y la Astronomía  
 
-Sabemos que la física no es solo una disciplina, sino una forma de pensar el mundo. Cada trayectoria es única, y este espacio busca ser un punto de encuentro donde esas trayectorias dialoguen, se enriquezcan y generen nuevas posibilidades.
+Creemos en el valor de una comunidad activa, donde el conocimiento, las experiencias y las trayectorias se comparten para abrir nuevos caminos.
 
-Te invitamos a participar activamente:
-- Comparte tus proyectos
-- Difunde oportunidades
-- Propón iniciativas
-- Reconecta con colegas
+Si estás buscando oportunidades académicas, te invitamos a:
 
-✨ Porque seguir haciendo física también es construir comunidad.
+- Asistir a nuestros [eventos](https://egresadosinstitutofisicaudea.github.io/eventos/)  
+- Explorar la sección de [egresados](https://egresadosinstitutofisicaudea.github.io/egresados/)  
+- Unirte a nuestra comunidad en Discord  
+
+Si eres egresado o egresada, te invitamos a participar activamente:
+
+- Comparte tus proyectos  
+- Difunde oportunidades  
+- Propón iniciativas  
+- Reconecta con colegas  
 
 ---
-
-**Con entusiasmo,**  
-*Red de Egresados de Física*
