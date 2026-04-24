@@ -1,5 +1,7 @@
-
-
+---
+layout: archive
+permalink: /eventos/
+---
 <div class="grid-eventos">
 
 {% for e in site.eventos %}
