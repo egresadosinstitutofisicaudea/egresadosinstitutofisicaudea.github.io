@@ -13,7 +13,27 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
+<style>
+.grid-eventos {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
 
+.card-evento {
+  border: 1px solid #eee;
+  border-radius: 16px;
+  padding: 1.2rem;
+  background: white;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+  transition: 0.2s;
+  cursor: pointer;
+}
+
+.card-evento:hover {
+  transform: translateY(-5px);
+}
+</style>
 <style>
 .grid-personas {
   display: grid;
