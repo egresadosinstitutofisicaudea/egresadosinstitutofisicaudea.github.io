@@ -1,7 +1,11 @@
 ---
 title: "Conversatorio"
-excerpt: "rutas academicas hacia Europa"
+excerpt: "Rutas académicas hacia Europa"
 image: /images/conversatorioEuropa.png
+layout: single
 ---
+
 Evento híbrido (presencial y virtual)
-Zoom Meeting https://unige.zoom.us/j/63613886987 
+
+📍 Universidad de Antioquia 6-321
+[Unirse al Zoom](https://unige.zoom.us/j/63613886987)
