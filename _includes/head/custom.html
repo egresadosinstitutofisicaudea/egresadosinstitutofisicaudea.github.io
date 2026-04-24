@@ -5,15 +5,22 @@
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
+<!-- Favicons -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-32x32.png" sizes="32x32"/>
 <link rel="icon" type="image/png" href="{{ base_path }}/images/favicon-192x192.png" sizes="192x192"/>
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
-<link rel="icon" href="/images/favicon.ico"/>
+<link rel="icon" href="{{ base_path }}/images/favicon.ico"/>
+
 <meta name="theme-color" content="#ffffff"/>
+
+<!-- CUSTOM STYLES -->
 <style>
+
+/* =========================
+   GRID EVENTOS
+========================= */
 .grid-eventos {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -33,8 +40,11 @@
 .card-evento:hover {
   transform: translateY(-5px);
 }
-</style>
-<style>
+
+
+/* =========================
+   GRID PERSONAS
+========================= */
 .grid-personas {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -78,6 +88,39 @@
   margin: 2px;
   font-size: 0.75rem;
 }
+
+
+/* =========================
+   🌙 DARK MODE (CORREGIDO)
+========================= */
+
+/* tarjetas */
+[data-theme="dark"] .card-evento,
+[data-theme="dark"] .card-persona {
+  background: #1e1e1e;
+  color: #ffffff;
+  border: 1px solid #333;
+}
+
+/* textos */
+[data-theme="dark"] .card-evento h3,
+[data-theme="dark"] .card-evento p,
+[data-theme="dark"] .card-persona .nombre,
+[data-theme="dark"] .card-persona p {
+  color: #ffffff;
+}
+
+/* subtítulos */
+[data-theme="dark"] .area {
+  color: #bbbbbb;
+}
+
+/* etiquetas */
+[data-theme="dark"] .tag {
+  background: #333;
+  color: #ddd;
+}
+
 </style>
 
 <!-- end custom head snippets -->
