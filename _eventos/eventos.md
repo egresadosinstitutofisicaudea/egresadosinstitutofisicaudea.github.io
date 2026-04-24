@@ -1,10 +1,4 @@
----
-layout: archive
-title: "Eventos"
-permalink: /eventos/
----
 
-## Próximos eventos
 
 <div class="grid-eventos">
 
