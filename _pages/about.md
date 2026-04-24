@@ -23,7 +23,7 @@ Si estás buscando oportunidades académicas, te invitamos a:
 
 - Asistir a nuestros [eventos](https://egresadosinstitutofisicaudea.github.io/eventos/)  
 - Explorar la sección de [egresados](https://egresadosinstitutofisicaudea.github.io/egresados/)  
-- Unirte a nuestra comunidad en Discord  
+- Unirte a nuestra comunidad en [Discord](https://discord.com/invite/tqMVW2KcM7)
 
 Si eres egresado o egresada, te invitamos a participar activamente:
 
