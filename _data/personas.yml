@@ -311,7 +311,7 @@
         - "https://portal.if.usp.br/"
 
 - nombre: "Carolina Herrera Segura"
-  email: "carolinaherrerasegura@gmail.com"
+  email: ""#"carolinaherrerasegura@gmail.com"
   formacion: "Pregrado en Física"
   areas: "Computer vision, software"
   disponibilidad: "12–16"
@@ -326,7 +326,7 @@
         - "https://www.oulu.fi/"
 
 - nombre: "David Silva Sanchez"
-  email: "davidsilvasanchez314@gmail.com"
+  email: ""#"davidsilvasanchez314@gmail.com"
   formacion: "Pregrado en Física"
   areas: "Biofísica, cryo-EM, matemática aplicada"
   disponibilidad: "Limitado por zona horaria (Helsinki)"
