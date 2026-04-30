@@ -46,10 +46,11 @@
    GRID PERSONAS
 ========================= */
 .grid-personas {
-  display: grid !important;
-  grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
-  gap: 1.5rem;
-  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+@@ -78,6 +88,39 @@
+  margin: 2px;
+  font-size: 0.75rem;
 }
 
 .card-persona {
