@@ -8,7 +8,12 @@ Si quieres hacer parte de este banco contáctanos al correo egresadosinstitutofi
 
 <div class="grid-personas">
 
+<div class="grid-personas">
+
 {% for persona in site.data.personas %}
+
+<a href="{{ site.baseurl }}/egresados/{{ persona.nombre | slugify }}/"
+   style="text-decoration:none; color:inherit;">
 
 <div class="card-persona">
 
@@ -43,6 +48,8 @@ Si quieres hacer parte de este banco contáctanos al correo egresadosinstitutofi
   </div>
 
 </div>
+
+</a>
 
 {% endfor %}
 
