@@ -26,3 +26,14 @@ Evento híbrido (presencial y virtual)
         height="600px"
         style="border:none; margin-top:20px;">
 </iframe>
+
+---
+
+## 🎥 Grabación del conversatorio
+
+<iframe 
+  src="[https://drive.google.com/file/d/FILE_ID/preview](https://drive.google.com/file/d/12B4CfSawol7sPbqoz3K48DSnEfBvluIY/view?usp=sharing)"
+  width="100%"
+  height="500px"
+  style="border:none; border-radius:12px; margin-top:20px;">
+</iframe>
