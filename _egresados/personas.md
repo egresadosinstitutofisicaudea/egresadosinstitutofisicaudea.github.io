@@ -40,13 +40,12 @@ Si quieres hacer parte de este banco contáctanos al correo egresadosinstitutofi
       {% endfor %}
     </div>
 
-
+     <!--
     <div style="margin-top:12px;">
     {% if persona.email %}
       <a href="mailto:{{ persona.email }}">📧 Contactar</a>
     {% endif %}
-    </div>
-
+    </div>-->
   </div>
 
 </a>
