@@ -47,8 +47,22 @@
 ========================= */
 .grid-personas {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(3, 1fr);
   gap: 1.5rem;
+  align-items: stretch;
+}
+
+/* responsive */
+@media (max-width: 1000px) {
+  .grid-personas {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 650px) {
+  .grid-personas {
+    grid-template-columns: 1fr;
+  }
 }
 
 .card-persona {
