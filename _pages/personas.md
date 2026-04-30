@@ -6,43 +6,29 @@ permalink: /egresados/
 
 Si quieres hacer parte de este banco contáctanos al correo egresadosinstitutofisicaudea@gmail.com
 
+---
+
 <div class="grid-personas">
 
-{% for persona in site.data.personas %}
+{% for persona in site.egresados %}
 
-<div class="card-persona">
+<a href="{{ persona.url }}" style="text-decoration:none; color:inherit;">
 
-  <div class="nombre">{{ persona.nombre }}</div>
+  <div class="card-persona">
 
-  {% if persona.formacion %}
-    <div class="area">{{ persona.formacion }}</div>
-  {% endif %}
+    <div class="nombre">{{ persona.nombre }}</div>
 
-  {% if persona.areas %}
-    <div class="area">{{ persona.areas }}</div>
-  {% endif %}
-
-  <div style="margin-top:10px;">
-    {% for p in persona.programas limit:2 %}
-      <div class="programa">
-        <strong>{{ p.tipo }}</strong> – {{ p.lugar }}
-      </div>
-    {% endfor %}
-  </div>
-
-  <div style="margin-top:8px;">
-    {% for p in persona.programas %}
-      <span class="tag">{{ p.tipo }}</span>
-    {% endfor %}
-  </div>
-
-  <div style="margin-top:12px;">
-    {% if persona.email %}
-      <a href="mailto:{{ persona.email }}">📧 Contactar</a>
+    {% if persona.formacion %}
+      <div class="area">{{ persona.formacion }}</div>
     {% endif %}
+
+    {% if persona.areas %}
+      <div class="area">{{ persona.areas }}</div>
+    {% endif %}
+
   </div>
 
-</div>
+</a>
 
 {% endfor %}
 
