@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Banco de egresados y egresadas"
+permalink: /egresados/
+---
+
+Si quieres hacer parte de este banco contáctanos al correo egresadosinstitutofisicaudea@gmail.com
+
+
 <div class="grid-personas">
 
 {% for persona in site.data.personas %}
