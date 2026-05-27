@@ -12,7 +12,6 @@ Link de conexión: [Entrar al evento](https://meet.google.com/dss-pzkr-rdw)
 <img src="{{ page.image }}"
      style="width:50%; height:auto; border-radius:12px; margin-bottom:20px;">
 
----
 
 
 
