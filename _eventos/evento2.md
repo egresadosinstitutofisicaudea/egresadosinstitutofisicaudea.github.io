@@ -6,7 +6,7 @@ layout: single
 ---
 Fecha: Lunes 1 de junio 
 
-Evento virtual con link de conexión [Entrar al evento](https://meet.google.com/dss-pzkr-rdw)
+Evento virtual con link de conexión [Entrar al evento](https://udearroba.zoom.us/j/93298740255)
 
 ---
 
