@@ -6,7 +6,8 @@ layout: single
 ---
 Fecha: Martes 18 de Agosto 1pm
 
-Evento virtual link de conexión [Zoom](https://udearroba.zoom.us/j/96534640542)
+Evento virtual 
+link de conexión [Zoom](https://udearroba.zoom.us/j/96534640542)
 ---
 
 
