@@ -32,7 +32,7 @@ Evento híbrido (presencial y virtual)
 ## 🎥 Grabación del conversatorio
 
 <iframe 
-  src="https://drive.google.com/file/d/12B4CfSawol7sPbqoz3K48DSnEfBvluIY/preview"
+  src="https://drive.google.com/file/d/1CseelGJgZmAV-ghq2sxSU2UDaFODZkMW/view?usp=sharing"
   width="100%"
   height="500px"
   style="border:none; border-radius:12px; margin-top:20px;">
