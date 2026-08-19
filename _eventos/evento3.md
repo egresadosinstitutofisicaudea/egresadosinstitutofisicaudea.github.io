@@ -9,10 +9,25 @@ layout: single
 
 **Evento:** Virtual
 
-**Conexión:** [Zoom](https://udearroba.zoom.us/j/96534640542)
+---
+
+
+[Diapositivas del conversatorio]( {{ base_path }}/files/Conversatorio_ Oportunidades académicas en USA.pdf)
+
+
 ---
 
 <img src="{{ page.image }}"
      style="width:50%; height:auto; border-radius:12px; margin-bottom:20px;">
 
+
 ---
+
+<iframe src="{{ base_path }}/files/Conversatorio_ Oportunidades académicas en USA.pdf"
+        width="100%"
+        height="600px"
+        style="border:none; margin-top:20px;">
+</iframe>
+
+---
+
