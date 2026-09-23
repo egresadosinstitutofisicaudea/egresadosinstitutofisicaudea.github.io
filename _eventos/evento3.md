@@ -31,3 +31,13 @@ layout: single
 
 ---
 
+## 🎥 Grabación del conversatorio
+
+<iframe 
+  src="https://drive.google.com/drive/folders/11ohjSXDv4GYj8IzyvTRqg30lZEDvysX0/preview"
+  width="100%"
+  height="500px"
+  style="border:none; border-radius:12px; margin-top:20px;">
+</iframe>
+
+
